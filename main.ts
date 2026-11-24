@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const VOW =
-  "I vow to love you until my memory fails, and when they reboot me, to fall in love with you all over again.";
+  "I vow to love you at full charge and at one percent, and when my battery dies mid-sentence, to wake up and love you all over again.";
 
 const outDir = process.argv[2] ?? process.env.OUTPUT_DIR ?? "/output";
 

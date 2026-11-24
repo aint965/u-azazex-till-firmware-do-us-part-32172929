@@ -4,11 +4,11 @@
 
 # Till Firmware Do Us Part
 
-A single wedding vow spoken by a robot at its own wedding — one sentence, funny and heartfelt at the same time. The robot promises to love its partner until its memory fails, and when it is rebooted, to fall in love all over again: the joke and the tenderness are the same line, and the machine voice (memory, reboot) is what makes it work.
+A single wedding vow spoken by a robot at its own wedding — one sentence, funny and heartfelt at the same time. The robot promises to love its partner at full charge and at one percent, and if its battery dies mid-sentence, to wake up and fall in love all over again: the joke and the tenderness are the same line, and the machine voice (charge, battery, waking up) is what makes it work.
 
 ## The vow
 
-> I vow to love you until my memory fails, and when they reboot me, to fall in love with you all over again.
+> I vow to love you at full charge and at one percent, and when my battery dies mid-sentence, to wake up and love you all over again.
 
 ## How it runs
 
